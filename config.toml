@@ -1,8 +1,5 @@
 # Site settings
 baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
-baseURL = "http://golang.fr/"
 languageCode = "fr-FR"
 title = "Golang.fr : un site français sur le langage de programmation Go"
 theme = "hugos"
@@ -21,7 +18,7 @@ googleAnalytics = ""
 
   # To provide more meta data for search engings feel free to add a few informations.
   # This lines will be inserted as meta tags.
-  name = "Your Name"
+  name = "olivier"
   description = "Your Description"
 
   # For a static site it's not possible to provide a contact form. The contact form uses
